@@ -24,7 +24,7 @@ public class Test {
 	private static final String FOLDER_NAME = "descriptions";
 	private static final String SCHEMA_FILE = "OpenSearch.xsd";
 
-	private static final String[] DESCRIPTIONS = { "wikipedia" };
+	private static final String[] DESCRIPTIONS = { "wikipedia", "google" };
 
 	public static void main(String[] args) {
 		String filePath;
